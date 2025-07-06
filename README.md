@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Isaac
-- 👀 I’m interested in building my skills as a web developer and software engineer
+- 👀 I’m interested in building my skills as a software engineer
 - 🌱 I’m currently learning JavaScript, Python, and havin' a crack at C
 - 💞️ I’m looking to collaborate on any mobile applications or websites.
 - 📫 How to reach me: isaac.evb1@gmail.com
